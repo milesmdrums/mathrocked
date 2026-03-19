@@ -1,4 +1,6 @@
 body{
-    background-color: black;
-    color: red;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
